@@ -1,0 +1,8 @@
+../Core/Src/k_task.c:17:6:null_task	1
+../Core/Src/k_task.c:26:20:write_task_to_stack	1
+../Core/Src/k_task.c:47:5:osCreateTask	15
+../Core/Src/k_task.c:158:6:osKernelInit	5
+../Core/Src/k_task.c:232:5:osKernelStart	4
+../Core/Src/k_task.c:245:29:osYield	2
+../Core/Src/k_task.c:253:29:osTaskExit	2
+../Core/Src/k_task.c:261:5:osTaskInfo	7

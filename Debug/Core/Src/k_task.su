@@ -1,0 +1,8 @@
+../Core/Src/k_task.c:17:6:null_task	8	static
+../Core/Src/k_task.c:26:20:write_task_to_stack	16	static
+../Core/Src/k_task.c:47:5:osCreateTask	96	static
+../Core/Src/k_task.c:158:6:osKernelInit	80	static
+../Core/Src/k_task.c:232:5:osKernelStart	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:245:29:osYield	0	static,ignoring_inline_asm
+../Core/Src/k_task.c:253:29:osTaskExit	0	static,ignoring_inline_asm
+../Core/Src/k_task.c:261:5:osTaskInfo	24	static

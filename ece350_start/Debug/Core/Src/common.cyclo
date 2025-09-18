@@ -1,0 +1,4 @@
+../Core/Src/common.c:25:5:checkGlobalFlagsSet	2
+../Core/Src/common.c:32:5:checkGlobalFlagsNotSet	2
+../Core/Src/common.c:39:6:setGlobalFlags	1
+../Core/Src/common.c:43:6:unsetGlobalFlags	1
